@@ -1,0 +1,15 @@
+Write a Python script that does the followings.
+
+1. Generate a list of random numbers of length 100.
+2. Define three functions that calculates mean, variance and standard deviation.
+    The function name should be lilke - mymean_<yourname>, myvariance_<yourname>, mystddev_<yourname>
+3. Execute these functions by passing the randomly generate lists and print the result.
+    The result should be printed in the following format.
+     Name: <yourname>
+     Mean: <mean-value>
+     Variance: <variance-value>
+     Standard Deviation: <stddev-value>
+4. Create a visualization that shows the data points in your dataset and also show a horizontal line representing the mean value.
+
+Do these things in a Colab Notebook and submit the link of the notebook in the private comment box.
+
